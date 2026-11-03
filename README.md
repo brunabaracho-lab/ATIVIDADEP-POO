@@ -57,6 +57,7 @@ Para isso, foi utilizado o método `create()` da classe `PacienteRepository`.
 *Descrição: na figura1 é mostrado a inspeção dos dados presentes no objeto paciente2.*
 
 ![Figura2](criandopaciente2.png) figura2
+
 ![Figura3](paciente2criado.png) figura3
 
 *Descrição: na figura2 é mostrado que o metodo creat foi chamado para criar o paciente2, e na figura3 pode-se concluir que o objeto foi criado com sucesso apresentando os todos os dados do paciente.*
@@ -69,6 +70,7 @@ Foi utilizado o método `loadAll()` para consultar todos os registros.
 
 
 ![Figura4](leituradaquantidadedepacientes.png) figura4
+
 ![Figura5](leituradaquantidadeedados.png) figura5
 
 *Descrição: na figura4 é observado que é possivel consultar os pacientes cadastrados, e na figura5 pode se analisar que além de consultar a quantidade de pacientes também pode-se ler os dados cadastrados desses pacientes.*
