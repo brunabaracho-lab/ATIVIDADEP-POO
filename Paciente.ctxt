@@ -1,0 +1,30 @@
+#BlueJ class context
+#Mon Nov 02 16:31:05 BRT 2026
+comment0.target=Paciente
+comment1.target=java.lang.String printBirthday()
+comment10.target=java.util.Date getBirthday()
+comment10.text=GET Method Propertie birthday
+comment11.params=endereco
+comment11.target=void setendereco(java.lang.String)
+comment12.target=java.lang.String getendereco()
+comment13.params=sexo
+comment13.target=void setsexo(java.lang.String)
+comment14.target=java.lang.String getsexo()
+comment2.target=int getId()
+comment3.target=int getidade()
+comment4.params=idade
+comment4.target=void setidade(int)
+comment5.target=java.lang.String getnome()
+comment5.text=GET Method Propertie fullName
+comment6.params=nome
+comment6.target=void setnome(java.lang.String)
+comment6.text=SET Method Propertie fullName
+comment7.target=java.lang.String getCPF()
+comment7.text=GET Method Propertie registration
+comment8.params=CPF
+comment8.target=void setCPF(java.lang.String)
+comment8.text=SET Method Propertie registration
+comment9.params=birthday
+comment9.target=void setBirthday(java.util.Date)
+comment9.text=SET Method Propertie birthday
+numComments=15
