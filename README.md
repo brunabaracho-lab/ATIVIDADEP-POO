@@ -49,16 +49,15 @@ A operação Create é responsável por cadastrar um novo paciente no banco de d
 
 Para isso, foi utilizado o método `create()` da classe `PacienteRepository`.
 
-**Evidência do teste:**
 
 <!-- Substitua pelo nome da imagem do seu teste de cadastro. -->
 
-![Figura1](imagens/dadosdopaciente2.png) figura1
+![Figura1](dadosdopaciente2.png) figura1
 
 *Descrição: na figura1 é mostrado a inspeção dos dados presentes no objeto paciente2.*
 
-![Figura2](imagens/criandopaciente2.png) figura2
-![Figura3](imagens/paciente2criado.png) figura3
+![Figura2](criandopaciente2.png) figura2
+![Figura3](paciente2criado.png) figura3
 
 *Descrição: na figura2 é mostrado que o metodo creat foi chamado para criar o paciente2, e na figura3 pode-se concluir que o objeto foi criado com sucesso apresentando os todos os dados do paciente.*
 
@@ -68,10 +67,9 @@ A operação Read permite consultar os pacientes que estão cadastrados no banco
 
 Foi utilizado o método `loadAll()` para consultar todos os registros.
 
-**Evidência do teste:**
 
-![Figura4](imagens/leituradaquantidadedepacientes.png) figura4
-![Figura5](imagens/leituradaquantidadeedados.png) figura5
+![Figura4](leituradaquantidadedepacientes.png) figura4
+![Figura5](leituradaquantidadeedados.png) figura5
 
 *Descrição: na figura4 é observado que é possivel consultar os pacientes cadastrados, e na figura5 pode se analisar que além de consultar a quantidade de pacientes também pode-se ler os dados cadastrados desses pacientes.*
 
@@ -82,21 +80,20 @@ A operação Update permite modificar os dados de um paciente já cadastrado.
 
 No teste realizado, a idade do paciente foi alterada de 18 para 20 anos. Em seguida, foi utilizado o método `update()` para atualizar o registro no banco de dados.
 
-**Evidência do teste:**
 na figura1, que foi mostrado no Creat, observa-se que nos dados cadastrados a idade corresposnde a 18 anos nas imagens a seguir é mostrado como essa idade foi alterada: 
 
-![Figura6](imagens/atualizandonoobjeto.png)figura6
+![Figura6](atualizandonoobjeto.png)figura6
 
-![Figura7](imagens/inspecionandooobjeto.png)figura7
+![Figura7](inspecionandooobjeto.png)figura7
 
-![Figura8](imagens/metodoupdate.png)figura8
+![Figura8](metodoupdate.png)figura8
 
-![Figura9](imagens/selecionandoatualização.png) figura9
+![Figura9](selecionandoatualização.png) figura9
 
 *Descrição: alteração da idade e chamada do método de atualização.*
 
-![Figura10](imagens/atualizado1.png) figura10
-![Figura11](imagens/atualizado2.png) figura11
+![Figura10](atualizado1.png) figura10
+![Figura11](atualizado2.png) figura11
 
 *Descrição: confirmação da atualização e resultado após a alteração.*
 
@@ -109,8 +106,8 @@ Foi utilizado o método `delete()` da classe `PacienteRepository`.
 
 **Evidência do teste:**
 
-![Figura12](imagens/delete1.png) figura12
-![Figura13](imagens/delete2.png) figura13
+![Figura12](delete1.png) figura12
+![Figura13](delete2.png) figura13
 
 *Descrição: chamada do método responsável pela exclusão do paciente.*
 
