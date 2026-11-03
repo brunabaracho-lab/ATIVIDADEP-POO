@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com o objetivo de implementar as quatro operaçõe
 
 A implementação utiliza a biblioteca ORMLite para realizar o mapeamento entre as classes Java e as tabelas do banco de dados.
 
-## 2. Classe escolhida
+## 2. Classes escolhidas
 
 A classe escolhida para a implementação foi `Paciente`.
 
